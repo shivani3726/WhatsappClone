@@ -1,5 +1,5 @@
-# FirebaseChatApp-Whatsapp-mini-Clone-
-# A simple chat application where users can chat with each other and upload their profile pics and background pics and social media links# tomatoeats
+# Firebase Chat App — WhatsApp Clone
+# A real-time Android chat application built with Kotlin and Firebase, enabling users to send instant messages, share media, and personalize their profiles. The app mimics core WhatsApp features while maintaining a simple and modern interface.
 
 #ScreenShots
 
